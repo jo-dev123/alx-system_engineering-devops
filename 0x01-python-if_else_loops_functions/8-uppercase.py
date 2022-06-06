@@ -1,4 +1,5 @@
 #!/usr/bin/python3
 def uppercase(str):
-    for (i = 0; i < len(str); i++):
-        print(ord(str[i]))
+    for i in range(len(str)):
+        store = ord(str[i]) - 32
+        print("{:s}".format(store), end='')
