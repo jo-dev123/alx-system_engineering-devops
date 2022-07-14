@@ -13,3 +13,5 @@ new_list = delete_at(my_list, idx)
 print(new_list)
 
 print(my_list)
+new_li2st = delete_at(my_list, 41)
+print(new_li2st)
