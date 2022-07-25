@@ -2,6 +2,7 @@
 
 "no module is imported"
 
+
 class Square:
     """Empty Class that defines a square"""
     pass
