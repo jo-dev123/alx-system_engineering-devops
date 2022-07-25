@@ -5,8 +5,9 @@
 class Square:
     """Does not do anything, no attribute"""
 
-    def  __size(self):
-        "Attribute for square size"
+    def  __init__(self, size):
+       """Attribute for square size"""
+       self.__size = size
         pass
 
     pass
