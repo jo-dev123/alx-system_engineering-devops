@@ -8,7 +8,3 @@ class Square:
     def  __init__(self, size):
        """Attribute for square size"""
        self.__size = size
-        pass
-
-    pass
-
