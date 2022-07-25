@@ -70,4 +70,4 @@ What is the Pythonic way to write getters and setters in Python
 ---
 ## Author
 
-* **Derrick Gee** - [kai-dg](https://github.com/jo-dev123)
+* **Degbor Johnson** - [jo-dev123](https://github.com/jo-dev123)
