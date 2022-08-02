@@ -6,6 +6,14 @@
 - [Linux process](https://www.thegeekstuff.com/2012/03/linux-processes-environment/)
 - [Linux signal](https://www.thegeekstuff.com/2012/03/linux-signals-fundamentals/)
 
+**man**
+- ps
+- pgrep
+- pkill
+- kill
+- exit
+- trap
+
 ## Learning Objectives
 - What is a PID?
 - What is a process?
