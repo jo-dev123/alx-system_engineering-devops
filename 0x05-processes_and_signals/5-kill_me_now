@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# this shouls kill 4-to_infinity_and_beyond
+
+kill "$(ps auxf 4-to_infinity_and_beyond)"
