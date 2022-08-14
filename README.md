@@ -1,11 +1,104 @@
-# Python programming
-## Resources
+<img src="https://rajivpandit.files.wordpress.com/2013/02/python.png" width="600">
 
-- [The Python Tutorial](https://docs.python.org/3.4/tutorial/index.html)
-- [Python Programming: An Introduction to Computer Science 3rd edition](https://iran-lms.com/images/images/Books/PDF/Python-Programming_-An-Introduction-to-Computer-Science-Franklin-Beedle--Associates-2016---John-M.-Zelle.pdf)
-- [Derek Banas’ Learn to program](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
-- [The Python Guru](https://thepythonguru.com/)
-- [New string formatting](https://pyformat.info/)
-- [Garbage collector](https://thp.io/2012/python-gc/python_gc_final_2012-01-22.pdf)
-- [Python Interpreter](https://alx-intranet.hbtn.io/rltoken/a5z3uSkiby1Xw679cFiw1Q)
-- [Python bytecode](https://docs.python.org/3.4/library/dis.html)
+
+
+# Higher-level programming
+
+
+
+## Welcome
+
+Thank you for visiting my programming projects. The majority of the code was written in Python3, with a few projects written in bash, MySQL, or JavaScript.
+
+
+
+## Table of Contents
+
+* [About](#about)
+
+* [Requirements](#requirements)
+
+* [Projects](#projects)
+
+* [Credits](#credits)
+
+
+
+## About
+
+This repository contains introductory projects for higher-level programming. Topics include:
+
+- Commenting code and following a coding style standard
+
+- Variables, data structures, operators, expressions, loops, nested loops
+
+- Conditional statements
+
+- Functions
+
+- Importing
+
+- Exceptions
+
+- Unit Testing
+
+- Classes and inheritance
+
+- Python IO
+
+- SQL and SQLAlchemy
+
+- Requests and web scraping
+
+and more!
+
+
+
+## Requirements
+
+* Ubuntu 14.04 LTS
+
+* Python 3.4
+
+* pip3 1.5
+
+* pep8 1.7
+
+* MySQL 5.7
+
+* MySQLdb 1.3
+
+* SQLAlchemy 1.1
+
+* node 6.10
+
+* semistandard 11.0
+
+
+
+## Projects
+
+1. [0x00-python-hello_world](./0x00-python-hello_world)
+
+2. [0x01-python-if_else_loops_functions](./0x01-python-if_else_loops_functions)
+
+3. [0x02-python-import_modules](./0x02-python-import_modules)
+
+4. [0x03-python-data_structures](./0x03-python-data_structures)
+
+5. [0x04-python-more_data_structures](./0x04-python-more_data_structures)
+
+6. [0x05-python-exceptions](./0x05-python-exceptions)
+
+7. [0x06-python-classes](./0x06-python-classes)
+
+8. [0x07-python-test_driven_development](./0x07-python-test_driven_development)
+
+9. [0x08-python-more_classes](./0x08-python-more_classes)
+
+10. [0x09-python-everything_is_object](./0x09-python-everything_is_object)
+
+
+
+## Credit
+Work is owned and maintained by Degbor Johnson (Jo-dev123).
