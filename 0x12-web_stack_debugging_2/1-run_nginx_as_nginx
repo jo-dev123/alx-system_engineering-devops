@@ -1,4 +1,4 @@
-#!usr/bin/env bash
+#!/usr/bin/env bash
 # Fixes a container such that:
 # -nginx must be running as nginx user
 # -nginx must be listening on all active IPs on port 8080
