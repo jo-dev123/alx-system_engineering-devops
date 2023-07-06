@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# to infinity and beyond
-
-for ((;;)); do echo "To infinity and beyond"; sleep 2; done
